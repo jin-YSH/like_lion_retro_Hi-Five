@@ -1,4 +1,6 @@
 # 멋사 19기 2차 회고 5조 레포지토리
+## 노션
+https://www.notion.so/2-5-28ce7ff8026b80f994c4d629c70a54ba?source=copy_link
 
 ## 조원
 ### 김지번
